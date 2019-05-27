@@ -1,2 +1,2 @@
 # CSS19
-Nominated for deletion, Wikipedia research
+Nominated for deletion, research on Wikipedia.
