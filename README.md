@@ -1,4 +1,6 @@
-# CSS19
+# Computational for Social Science, ss19
+
+## Nominated for deletion, Wikipedia research
 
 Research indicates that there is gender bias in Wikipedia, which should be tackled since Wikipedia is one of the major sources
 of information on the web. We study this bias by looking at the articles about persons that stayed inside Wikipedia but were 
